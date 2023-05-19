@@ -12,20 +12,20 @@ Predicting High Frequency Futures Trading Signals.
 
 Try to take full positions at the lows and short positions at the highs.
 
-![traded](img\traded.png)
+![traded](img/traded.png)
 
-![traded](img\pred.png)
+![traded](img/pred.png)
 
 ## Pipline
 
-![traded](img\pipeline.png)
+![traded](img/pipeline.png)
 
 ## Model Evaluation
 
-![traded](img\cm.png)
+![traded](img/cm.png)
 
-![traded](img\lstmprice.png)
+![traded](img/lstmprice.png)
 
 ## Trading Strategy
 
-![traded](img\algo.png)
+![traded](img/algo.png)
